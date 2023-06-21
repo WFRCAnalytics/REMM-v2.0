@@ -1,0 +1,8 @@
+YEAR.txt
+utahdevelopedparcels.csv
+RUNNUM
+__pycache__/
+urbansim_defaults/__pycache__/
+TDM/_TDMv8.3_REMM/*
+TDM/_TDMv8.3.2_REMM/*
+RemmRun/
